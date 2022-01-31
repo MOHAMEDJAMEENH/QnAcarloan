@@ -1,5 +1,7 @@
 # QnA Maker
 
+click this link te test my chat bot https://portal.azure.com/?Microsoft_Azure_BotService_subscriptionId=a7b8d72e-8086-4c2c-97e4-ad589504227c&Microsoft_Azure_BotService_qnaHostName=demoqna9.azurewebsites.net&Microsoft_Azure_
+
 Bot Framework v4 QnA Maker bot sample. This sample shows how to integrate Multiturn and Active learning in a QnA Maker bot with ASP.Net Core-2. Click [here][72] to know more about using follow-up prompts to create multiturn conversation. To know more about how to enable and use active learning, click [here][71].
 
 This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to create a bot that uses the [QnA Maker Cognitive AI](https://www.qnamaker.ai) service.
