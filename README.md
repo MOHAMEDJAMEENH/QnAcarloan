@@ -1,11 +1,10 @@
 # QnA Maker
 
-click this link te test my chat bot https://portal.azure.com/?Microsoft_Azure_BotService_subscriptionId=a7b8d72e-8086-4c2c-97e4-ad589504227c&Microsoft_Azure_BotService_qnaHostName=demoqna9.azurewebsites.net&Microsoft_Azure_
-
+click this link to test my chat bot : https://portal.azure.com/?Microsoft_Azure_BotService_subscriptionId=a7b8d72e-8086-4c2c-97e4-ad589504227c&Microsoft_Azure_BotService_qnaHostName=demoqna9.azurewebsites.net&Microsoft_Azure=#@mohamedjameenhgmail.onmicrosoft.com/resource/subscriptions/a7b8d72e-8086-4c2c-97e4-ad589504227c/resourcegroups/AZUREDEMOBOT1/providers/Microsoft.BotService/botServices/demoqna9-bot/overview 
 Bot Framework v4 QnA Maker bot sample. This sample shows how to integrate Multiturn and Active learning in a QnA Maker bot with ASP.Net Core-2. Click [here][72] to know more about using follow-up prompts to create multiturn conversation. To know more about how to enable and use active learning, click [here][71].
 
-click this link te test my chat bot https://portal.azure.com/?Microsoft_Azure_BotService_subscriptionId=a7b8d72e-8086-4c2c-97e4-ad589504227c&Microsoft_Azure_BotService_qnaHostName=demoqna9.azurewebsites.net&Microsoft_Azure_
-
+click this link to path my chat bot https://portal.azure.com/?Microsoft_Azure_BotService_subscriptionId=a7b8d72e-8086-4c2c-97e4-ad589504227c&Microsoft_Azure_BotService_qnaHostName=demoqna9.azurewebsites.net&Microsoft_Azure_
+ after clicking this link choose resources of demoQna9-bot(type:web app bot)and then you can test my chat bot .
 This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to create a bot that uses the [QnA Maker Cognitive AI](https://www.qnamaker.ai) service.
 
 The [QnA Maker Service](https://www.qnamaker.ai) enables you to build, train and publish a simple question and answer bot based on FAQ URLs, structured documents or editorial content in minutes. In this sample, we demonstrate how to use the QnA Maker service to answer questions based on a FAQ text file used as input.
